@@ -31,7 +31,11 @@ The screenshots below show selected views from the current LineGuard AI prototyp
 
 ### Dashboard Overview
 
-![Dashboard Overview](01-dashboard-overview.png)
+![Dashboard Overview](01-dashboard<img width="1154" height="630" alt="04-low-risk-pt-data" src="https://github.com/user-attachments/assets/d0b34296-39ee-4012-9e66-be6090061d00" />
+<img width="767" height="499" alt="03-clinical-insights" src="https://github.com/user-attachments/assets/d5864828-b960-4fb1-9b0a-6737b102471c" />
+<img width="1150" height="426" alt="02-risk-workflow" src="https://github.com/user-attachments/assets/1de0a8dd-1be0-4bb2-9a2e-5933909e5d7d" />
+<img width="1156" height="639" alt="01-dashboard-overview" src="https://github.com/user-attachments/assets/356291f7-9874-410e-bb17-f6cc23dd725c" />
+-overview.png)
 
 ### Risk Workflow
 
@@ -47,7 +51,7 @@ The screenshots below show selected views from the current LineGuard AI prototyp
 
 ## Demo Walkthrough
 
-Demo walkthrough coming soon.
+A short demo walkthrough is available here: [Watch demo](https://www.loom.com/share/631b9a51e0544302b38eb97044810465)
 
 <!-- After recording Loom, replace the line above with:
 A short demo walkthrough is available here: [Watch demo](PASTE_LOOM_LINK_HERE)
@@ -65,6 +69,4 @@ This project uses synthetic/demo data only. No real patient data, hospital data,
 
 This public repository is a high-level showcase. The full working prototype, implementation details, agent logic, and private development files are kept private while the project is under active development.
 
-## Demo Walkthrough
 
-A short demo walkthrough is available here: [Watch demo](https://www.loom.com/share/631b9a51e0544302b38eb97044810465)
