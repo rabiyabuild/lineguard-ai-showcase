@@ -67,4 +67,4 @@ This public repository is a high-level showcase. The full working prototype, imp
 
 ## Demo Walkthrough
 
-A short demo walkthrough is available here: [Watch demo](PASTE_LOOM_LINK_HERE)
+A short demo walkthrough is available here: [Watch demo](https://www.loom.com/share/631b9a51e0544302b38eb97044810465)
