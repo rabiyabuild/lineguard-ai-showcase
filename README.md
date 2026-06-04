@@ -31,19 +31,19 @@ The screenshots below show selected views from the current LineGuard AI prototyp
 
 ### Dashboard Overview
 
-![Dashboard Overview](01-dashboard-overview.png)
+![Dashboard Overview](./01-dashboard-overview.png)
 
 ### Risk Workflow
 
-![Risk Workflow](02-risk-workflow.png)
+![Risk Workflow](./02-risk-workflow.png)
 
 ### Line Necessity Review
 
-![Line Necessity Review](03-clinical-insights.png)
+![Line Necessity Review](./03-clinical-insights.png)
 
 ### Low-Risk Patient View
 
-![Low-Risk Patient View](04-low-risk-pt-data.png)
+![Low-Risk Patient View](./04-low-risk-pt-data.png)
 
 ## Demo Walkthrough
 
