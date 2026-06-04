@@ -1,34 +1,70 @@
-<img width="1154" height="630" alt="04-low-risk-pt-data" src="https://github.com/user-attachments/assets/88d58030-e64d-4760-a765-73ce004917ee" />
-<img width="767" height="499" alt="03-clinical-insights" src="https://github.com/user-attachments/assets/1a5440ba-cc58-4659-b51e-b04650c5afaa" />
-<img width="1150" height="426" alt="02-risk-workflow" src="https://github.com/user-attachments/assets/846a05fd-402d-4510-96a8-297d3949c7fb" />
-<img width="1156" height="639" alt="01-dashboard-overview" src="https://github.com/user-attachments/assets/5a14fc00-0d61-4d51-8c51-b73ec922522f" />
 # LineGuard AI Showcase
 
-LineGuard AI is an early healthcare AI project focused on infection prevention, patient safety, and clinical workflow support.
+LineGuard AI is an early healthcare AI prototype focused on central-line safety, infection prevention, patient safety, and clinical workflow support.
 
-The project explores how agent-powered tools can help healthcare teams move from fragmented operational signals to clearer, action-ready workflows.
+The project explores how agent-powered tools can help healthcare teams move from fragmented clinical signals to clearer, action-ready workflows.
+
+## What It Does
+
+LineGuard AI organizes synthetic patient worklist data into a central-line safety view that helps surface:
+
+- Patients who may need review
+- Overdue maintenance tasks
+- Line necessity concerns
+- Escalation and follow-up actions
+- Documentation and activity history
+
+The prototype is designed around a practical workflow question: once a risk or care gap is identified, how can teams act faster, with clearer context, and less fragmented follow-up?
 
 ## Focus Areas
 
-- Healthcare workflow design
-- Infection prevention support
+- Infection prevention workflow support
+- Central-line safety monitoring
 - Patient safety operations
-- Clinical decision-support concepts
-- Synthetic demo scenarios
-- Practical AI tooling for clinical teams
+- Clinical task prioritization
+- Action-oriented workflow design
+- Synthetic demo scenarios for early validation
 
-## Why This Matters
+## Prototype Preview
 
-Healthcare teams often work across fragmented dashboards, documentation systems, protocols, and follow-up tasks. The goal of this project is to explore how AI-enabled workflow support can help teams act earlier, more consistently, and with clearer context.
+The screenshots below show selected views from the current LineGuard AI prototype using synthetic demo data only. This public showcase is intentionally high-level while the full working prototype remains private during active development.
+
+### Dashboard Overview
+
+![Dashboard Overview](01-dashboard-overview.png)
+
+### Risk Workflow
+
+![Risk Workflow](02-risk-workflow.png)
+
+### Line Necessity Review
+
+![Line Necessity Review](03-clinical-insights.png)
+
+### Low-Risk Patient View
+
+![Low-Risk Patient View](04-low-risk-pt-data.png)
+
+## Demo Walkthrough
+
+Demo walkthrough coming soon.
+
+<!-- After recording Loom, replace the line above with:
+A short demo walkthrough is available here: [Watch demo](PASTE_LOOM_LINK_HERE)
+-->
 
 ## Current Status
 
-Early prototype. Built for rapid iteration, feedback, and demonstration.
+This is an early prototype built for rapid iteration, feedback, and demonstration. The current version uses synthetic demo data and is not intended for clinical use.
 
-## Demo Data
+## Data and Safety Note
 
-This project uses synthetic/demo data only. No real patient data is included.
+This project uses synthetic/demo data only. No real patient data, hospital data, protected health information, or clinical records are included.
 
 ## IP / Code Access
 
-This public repository is a high-level showcase. The full working prototype and implementation details are kept private while the project is under active development.
+This public repository is a high-level showcase. The full working prototype, implementation details, agent logic, and private development files are kept private while the project is under active development.
+
+## Demo Walkthrough
+
+A short demo walkthrough is available here: [Watch demo](PASTE_LOOM_LINK_HERE)
